@@ -1,0 +1,1 @@
+In the FOWT system, the maximum stress is located at the bottom of the platform's main column, reaching 2.87e+8 Pa. The maximum stresses at the root sections of the blade and the web are 1.14e+7 Pa and 6.42e+7 Pa, respectively.
