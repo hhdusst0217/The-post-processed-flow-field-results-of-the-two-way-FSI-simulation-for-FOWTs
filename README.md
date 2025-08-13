@@ -1,0 +1,1 @@
+The flow field post-processing results have been uploaded to four branches. The floating offshore wind turbine (FOWT) in the study uses fully flexible FSI calculations, while the bottom fixed wind turbine (BFWT) uses rigid CFD calculations. The wind speed is 11.4 m/s, the wave height is 7.58 m, and the wave period is 12.1 s.
