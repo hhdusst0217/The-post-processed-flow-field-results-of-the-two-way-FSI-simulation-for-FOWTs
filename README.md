@@ -1,0 +1,1 @@
+Under the influence of the platform's six-degree-of-freedom motion and the blade aeroelastic response, the unsteady effects in the flow field within the rotor swept area of the fully flexible FOWT are significantly amplified, with the maximum displacement of the blade tip along the flapwise direction reaching 3.71 m.
