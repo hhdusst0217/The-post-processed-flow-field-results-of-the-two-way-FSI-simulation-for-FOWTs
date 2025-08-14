@@ -1,1 +1,1 @@
-The flow field post-processing results have been uploaded to four branches. In the study, the floating offshore wind turbine (FOWT) uses the OC4 5MW semi-submersible FOWT and employs fully flexible FSI calculations, while the bottom-fixed wind turbine (BFWT) uses rigid CFD calculations. The wind speed is 11.4 m/s, the wave height is 7.58 m, and the wave period is 12.1 s.
+This repository branch contains a supplementary video demonstrating the fully flexible FSI simulation of an OC4 5MW semi-submersible FOWT. 
